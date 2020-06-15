@@ -45,7 +45,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler>1.8</maven.compiler>
         <spring.version>4.3.5.RELEASE</spring.version>
-        <spring.security.version>4.2.1.RELEASE</spring.security.version>
+        <spring.security.version>5.3.3.RELEASE</spring.security.version>
         <httpclient.version>4.5.2</httpclient.version>
         <hibernate.version>5.2.7.Final</hibernate.version>
         <sl4j.version>1.7.22</sl4j.version>
